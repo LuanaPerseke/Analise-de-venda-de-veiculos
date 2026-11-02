@@ -1,5 +1,4 @@
-[Documentação Projeto veiculos.md](https://github.com/user-attachments/files/34254288/Documentacao.Projeto.veiculos.md)
-# Análise do Mercado de Veículos (1992--2020)
+# Análise do Mercado de Veículos (1992-2020)
 
 Uma solução de Business Intelligence e Engenharia de Dados desenvolvida
 para analisar o mercado de veículos usados, com foco em precificação,
