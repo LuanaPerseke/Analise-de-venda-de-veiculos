@@ -230,7 +230,8 @@ adicionais da modelagem.
 
 ## Dashboard Power BI
 
-![Dashboard --- Análise do Mercado de Veículos](Dashboard_Veiculos.png)
+<img width="1322" height="737" alt="Dashboard_Veiculos" src="https://github.com/user-attachments/assets/9179ae40-2e50-4dd8-861b-4cc54d55049b" />
+
 
 O dashboard apresenta uma interface de tema escuro, com contrastes em
 vermelho, e filtros laterais para explorar os dados. O cabeçalho destaca
