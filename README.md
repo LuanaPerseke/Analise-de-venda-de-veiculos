@@ -281,5 +281,5 @@ o título, o tema da análise e o período de 1992 a 2020.
 
 **Desenvolvido por Luana Perseke**
 
-Conecte-se comigo no [LinkedIn](https://linkedin.com) \|
-[GitHub](https://github.com)
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luana-perseke-84211b179/) \|
+[GitHub](https://github.com/LuanaPerseke)
